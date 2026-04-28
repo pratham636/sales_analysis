@@ -1,6 +1,6 @@
 # Sales Analysis Project
 
-This project uses Python to analyze sales data and generate visual charts using machine learning.
+This project uses Python to analyze sales data and generate visual charts using Data Analusis.
 
 ## 🚀 Getting Started
 
