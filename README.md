@@ -8,16 +8,16 @@ This project uses Python to analyze sales data and generate visual charts using 
 If you want to run the code directly on your machine:
 
 # Create the environment
-```python -m venv .venv
+```python -m venv .venv```
 
 # Activate it (Windows)
-```.venv\Scripts\activate
+```.venv\Scripts\activate```
 
 # Install libraries
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 # Run the script
-```python src/main.py
+```python src/main.py```
 
 ---
 
@@ -25,10 +25,10 @@ If you want to run the code directly on your machine:
 Use Docker to run the project in a locked, stable container.
 
 # Build the image
-```docker build -t sales-analysis .
+```docker build -t sales-analysis .```
 
 # Run the analysis and see the output files on your computer
-```docker run -v ${PWD}:/app sales-analysis
+```docker run -v ${PWD}:/app sales-analysis```
 
 ---
 
