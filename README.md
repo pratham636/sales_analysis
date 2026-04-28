@@ -42,4 +42,3 @@ Use Docker to run the project in a locked, stable container.
 ## 📊 Outputs
 * The console will print the analysis summary.
 * A file named `my_chart.png` (or your specific filename) will be generated in the root folder.
-*
