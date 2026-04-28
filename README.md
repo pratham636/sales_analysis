@@ -42,3 +42,13 @@ Use Docker to run the project in a locked, stable container.
 ## 📊 Outputs
 * The console will print the analysis summary.
 * A file named `my_chart.png` (or your specific filename) will be generated in the root folder.
+
+## 📈 Data Insights
+
+I analyzed the sales data across four key visualizations. Here are the main findings:
+
+* **Top Performer:** The "Set" category is the primary revenue driver, contributing to over **50% of total sales**.
+* **Seasonal Spike:** We observed a massive growth peak in **April (Month 4)**, suggesting successful seasonal promotions or external market factors.
+* **Pricing Strategy:** Boxplot analysis shows significant **premium outliers** in Sets and Western Dresses, indicating a strong market for high-end price points in these categories.
+* **Inventory Optimization:** Minor categories like 'Blouse' and 'Bottom' show low independent demand and should be considered for bundled promotional offers.
+*
