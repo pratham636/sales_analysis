@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-db=pd.read_csv("data/Amazon Sale Report.csv")
+db=pd.read_csv("data/Amazon Sale Report.zip")
 # print(db)
 # print(db.describe())
 # print(db.info())
