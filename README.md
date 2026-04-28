@@ -51,4 +51,3 @@ I analyzed the sales data across four key visualizations. Here are the main find
 * **Seasonal Spike:** We observed a massive growth peak in **April (Month 4)**, suggesting successful seasonal promotions or external market factors.
 * **Pricing Strategy:** Boxplot analysis shows significant **premium outliers** in Sets and Western Dresses, indicating a strong market for high-end price points in these categories.
 * **Inventory Optimization:** Minor categories like 'Blouse' and 'Bottom' show low independent demand and should be considered for bundled promotional offers.
-*
